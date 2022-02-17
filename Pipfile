@@ -8,6 +8,8 @@ django = "*"
 djangorestframework = "*"
 bs4 = "*"
 requests = "*"
+gunicorn = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
